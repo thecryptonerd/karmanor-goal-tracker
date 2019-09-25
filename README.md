@@ -1,1 +1,0 @@
-# karmanor-goal-tracker
