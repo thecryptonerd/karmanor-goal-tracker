@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/timolinn/hng.tech.svg?branch=master)]
+[![Build Status](https://travis-ci.org/thecryptonerd/karmanor-goal-tracker.svg?branch=master)]
 
 <div align="center">
 
-![hng](https://res.cloudinary.com/cryptonerd/image/upload/v1569583484/Screenshot_2019-09-27_at_12.23.53_PM_oebu4c.png)
+![Karmanor](https://res.cloudinary.com/cryptonerd/image/upload/v1569583484/Screenshot_2019-09-27_at_12.23.53_PM_oebu4c.png)
 
 <br>
 
